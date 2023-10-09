@@ -10,6 +10,7 @@ I'm a Technical Marketing Manager for the Ansible Automation platform
   - 🙋 Creating source plugins, event filters
   - 🙋 Rulebook creation process
   - 🙋 Any of the Event-Driven Ansible plugins I've written!
+  - 🙋 Anything else Ansible Automation Platform
 
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/cmcnaughton?trk=profile-badge)
@@ -17,7 +18,7 @@ I'm a Technical Marketing Manager for the Ansible Automation platform
               
 
 ### My favorite projects
-- [cloin/event-driven-minecraft](https://github.com/cloin/event-driven-minecraft): A project for my kids. A minecraft bedrock server in a podman-compose stack that is watched by Event-Driven Ansible via MQTT to kick off some actions in response to in-game events.
+- [cloin/event-driven-minecraft](https://github.com/cloin/event-driven-minecraft): **A project I use mostly with my kids**. A minecraft bedrock server in a podman-compose stack that is watched by Event-Driven Ansible via MQTT to kick off some actions in response to in-game events.
 - [cloin/ee-builds](https://github.com/cloin/ee-builds): This repository uses GitHub actions to automate the assemble of purpose-built container images used to execute Ansible automation!
 - [cloin/cloin.eda](https://github.com/cloin/cloin.eda): My Ansible collection containing Event-Driven Ansible source and filter plugins that I have created in Python. Contains event sources for ServiceNow, Elasticsearch, MQTT, NextDNS and RSS.
   - [cloin/cloin.datadog](https://github.com/cloin/cloin.datadog): An Event-Driven Ansible source plugin to poll the Datadog events endpoint. Also contains an Ansible module to run Datadog queries from Ansible playbooks
