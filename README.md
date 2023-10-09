@@ -9,6 +9,11 @@
   - 🙋 Rulebook creation process
   - 🙋 Any of the Event-Driven Ansible plugins I've written!
 
+### Get in touch
+- [LinkedIn](https://www.linkedin.com/in/cmcnaughton?trk=profile-badge)
+- [Mastodon](https://techhub.social/@cloin)
+              
+
 ### My favorite projects
 - [cloin/event-driven-minecraft](https://github.com/cloin/event-driven-minecraft): A project for my kids. A minecraft bedrock server in a podman-compose stack that is watched by Event-Driven Ansible via MQTT to kick off some actions in response to in-game events.
 - [cloin/ee-builds](https://github.com/cloin/ee-builds): This repository uses GitHub actions to automate the assemble of purpose-built container images used to execute Ansible automation!
