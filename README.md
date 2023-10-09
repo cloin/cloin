@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+I'm a Technical Marketing Manager for the Ansible Automation platform
+
 🔭 I’m currently working on [Event-Driven Ansible](https://github.com/ansible/event-driven-ansible)
 
 🌱 I’m currently learning about how observability can drive automation
