@@ -29,6 +29,7 @@ I'm a Technical Marketing Manager for the Ansible Automation platform
 
 ### Videos I've worked on!
 - [ServiceNow catalog item order fulfillment with Ansible Automation Platform](https://www.youtube.com/watch?v=nx5MLkzlaR4)
+- [What's new: Red Hat Ansible Automation Platform 2.5](https://www.youtube.com/watch?v=x95UPeJVm-E)
 - [Demo: All together now! Datadog, AWS SQS and Ansible](https://www.youtube.com/watch?v=OXYD0ZfMk6w)
 - [Ansible VS. Python](https://youtu.be/Nzq6fEr9SJ4?si=DZIhyivKouTYOw4m)
 - [3 tips for creating Event-Driven Ansible rulebooks](https://m.youtube.com/watch?v=GWzkqHupuN4&feature=youtu.be)
