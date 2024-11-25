@@ -14,6 +14,7 @@ I'm a Technical Marketing Manager for the Ansible Automation platform
 
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/cmcnaughton?trk=profile-badge)
+- [Bluesky](https://bsky.app/profile/cloin.bsky.social)
 - [Mastodon](https://techhub.social/@cloin)
               
 
