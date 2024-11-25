@@ -27,6 +27,8 @@ I'm a Technical Marketing Manager for the Ansible Automation platform
 - [cloin/eventscribe](https://github.com/cloin/eventscribe): An express backend with a react frontend that captures the event dictionary from Event-Driven Ansible and assists in creating rules to execute against received events
 
 ### Videos I've worked on!
+- [ServiceNow catalog item order fulfillment with Ansible Automation Platform](https://www.youtube.com/watch?v=nx5MLkzlaR4)
+- [Demo: All together now! Datadog, AWS SQS and Ansible](https://www.youtube.com/watch?v=OXYD0ZfMk6w)
 - [Ansible VS. Python](https://youtu.be/Nzq6fEr9SJ4?si=DZIhyivKouTYOw4m)
 - [3 tips for creating Event-Driven Ansible rulebooks](https://m.youtube.com/watch?v=GWzkqHupuN4&feature=youtu.be)
 - [Speed up provisioning with Event-Driven Ansible (EDA)](https://www.youtube.com/watch?v=Bt2tZB_5F2U&list=PLdu06OJoEf2a3fFl6uaoyGV526ilwD97R&index=1&t=5s&pp=gAQBiAQB)
