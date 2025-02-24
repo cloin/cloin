@@ -1,17 +1,5 @@
 ### Hello there 👋
 
-I'm a Technical Marketing Manager for the Ansible Automation platform
-
-🔭 I’m currently working on [Event-Driven Ansible](https://github.com/ansible/event-driven-ansible)
-
-🌱 I’m currently learning about how observability can drive automation
-
-💬 Ask me about Event-Driven Ansible:
-  - 🙋 Creating source plugins, event filters
-  - 🙋 Rulebook creation process
-  - 🙋 Any of the Event-Driven Ansible plugins I've written!
-  - 🙋 Anything else Ansible Automation Platform
-
 ### Get in touch
 - [LinkedIn](https://www.linkedin.com/in/cmcnaughton?trk=profile-badge)
 - [Bluesky](https://bsky.app/profile/cloin.bsky.social)
